@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DRA0R</h1>
 <h3 align="center">A passionate Data Science from Colombia</h3>
 
-- 🌱 I’m currently learning **Data science**
+- 🌱 **Developer**
 
 - 📫 How to reach me **rawson5444@gmail.com**
 
